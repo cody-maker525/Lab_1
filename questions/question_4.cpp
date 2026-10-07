@@ -5,7 +5,7 @@
 using namespace std;
 
 /*
-title: q1: return the power
+title: q4.4: return the power
 author: Clodagh Kelly
 comment on method: intitialize 2 inputs, x and y, initialize an answer of 1 because anything
 *1 is itself. then create a for loop where i becomes the value of y, i (value of y) divides by 2 each time

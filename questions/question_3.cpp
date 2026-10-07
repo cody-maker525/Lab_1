@@ -4,7 +4,7 @@
 
 using namespace std;
 /*
-title: q3: palendrome integer
+title: q4.3: palendrome integer
 author: Clodagh Kelly
 comment on method: since main must return an int we need a separate method to return and print
 a boolean, the method made it cleaner to print the output with less lines of code needed.
